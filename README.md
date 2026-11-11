@@ -1,58 +1,72 @@
 
 <div align="center">
 
-### Business · Data · Product Analytics
+## Олег · Business & Data Analytics
 
-📍 Financial University &nbsp; | &nbsp; 📊 Analytics &nbsp; | &nbsp; 🚀 Always Learning
+**Business Analysis · Data Analysis · Product Analytics**
+
+🎓 Financial University &nbsp;·&nbsp; 📊 Analytics &nbsp;·&nbsp; 🚀 Always Learning
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/A%2FB%20Testing-6F42C1?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/BPMN%202.0-E3A008?style=flat-square&logoColor=white" />
+
+</div>
 
 ---
 
-### ⚡ Tech Stack
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark" />
+<div align="center">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github&theme=light" height="45" />
 
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" />
 &nbsp;
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" />
 &nbsp;
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="42" />
 &nbsp;
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-<img src="https://img.shields.io/badge/BPMN_2.0-FFCD00?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_API-0969DA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+<img src="https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-2684FF?style=flat-square&logoColor=white" />
+
+</div>
+
+<br>
+
+| Направление | Навыки и инструменты |
+|:--|:--|
+| 📊 **Data & Statistics** | Python, Pandas, NumPy, Matplotlib, A/B Testing |
+| 🗄️ **Databases** | SQL, PostgreSQL, JOIN, CTE, Window Functions, ERD, 3NF |
+| 🔄 **Business Analysis** | BPMN 2.0, AS-IS / TO-BE, Requirements, Business Rules |
+| 🧩 **Other Tools** | Excel, Jupyter, Git/GitHub, Miro, REST API, JSON |
 
 ---
 
 ### 📂 Featured Projects
 
-<a href="https://github.com/omdklv7/housing-payments-ab-test">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=omdklv7&repo=housing-payments-ab-test&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/omdklv7/hh-analytics-case-study">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=omdklv7&repo=hh-analytics-case-study&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/omdklv7/traderbot-subscription-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=omdklv7&repo=traderbot-subscription-analysis&theme=github_dark&hide_border=true" />
-</a>
+| Проект | Описание | Технологии |
+|:--|:--|:--|
+| 🧪 [**A/B Testing**](https://github.com/omdklv7/housing-payments-ab-test) | Анализ эксперимента и проверка статистических гипотез | `Python` `Statistics` |
+| 📈 [**HH Analytics**](https://github.com/omdklv7/hh-analytics-case-study) | EDA рынка вакансий и зарплат аналитиков | `Pandas` `Matplotlib` |
+| 🔄 [**TraderBot**](https://github.com/omdklv7/traderbot-subscription-analysis) | Анализ бизнес-модели, требований и проектирование БД | `BPMN` `SQL` |
 
 ---
 
-### 📈 GitHub Activity
+### 💼 Commercial Experience
 
-<img src="https://github-readme-stats.vercel.app/api?username=omdklv7&show_icons=true&theme=github_dark&hide_border=true" />
+**Анализ клиентских данных · CRM · Оптимизация бизнес-процессов**
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdklv7&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+<img src="https://img.shields.io/badge/Result-20%25_faster_deals-238636?style=flat-square" />
 
