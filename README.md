@@ -5,8 +5,6 @@
 
 **Business Analysis · Data Analysis · Product Analytics**
 
-🎓 Financial University &nbsp;·&nbsp; 📊 Analytics &nbsp;·&nbsp; 🚀 Always Learning
-
 <br>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
