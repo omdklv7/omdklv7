@@ -16,6 +16,12 @@
 
 ---
 
+### 💼 Commercial Experience
+
+**Анализ клиентских данных · CRM · Оптимизация бизнес-процессов**
+
+<img src="https://img.shields.io/badge/Result-20%25_faster_deals-238636?style=flat-square" />
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -56,15 +62,6 @@
 
 | Проект | Описание | Технологии |
 |:--|:--|:--|
-| 🧪 [**A/B Testing**](https://github.com/omdklv7/housing-payments-ab-test) | Анализ эксперимента и проверка статистических гипотез | `Python` `Statistics` |
+| 📈 [**A/B Testing**](https://github.com/omdklv7/housing-payments-ab-test) | Анализ эксперимента и проверка статистических гипотез | `Python` `Statistics` |
 | 📈 [**HH Analytics**](https://github.com/omdklv7/hh-analytics-case-study) | EDA рынка вакансий и зарплат аналитиков | `Pandas` `Matplotlib` |
-| 🔄 [**TraderBot**](https://github.com/omdklv7/traderbot-subscription-analysis) | Анализ бизнес-модели, требований и проектирование БД | `BPMN` `SQL` |
-
----
-
-### 💼 Commercial Experience
-
-**Анализ клиентских данных · CRM · Оптимизация бизнес-процессов**
-
-<img src="https://img.shields.io/badge/Result-20%25_faster_deals-238636?style=flat-square" />
-
+| 📈 [**TraderBot**](https://github.com/omdklv7/traderbot-subscription-analysis) | Анализ бизнес-модели, требований и проектирование БД | `BPMN` `SQL` |
