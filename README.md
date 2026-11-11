@@ -64,4 +64,4 @@
 |:--|:--|:--|
 | 📈 [**A/B Testing**](https://github.com/omdklv7/housing-payments-ab-test) | Анализ эксперимента и проверка статистических гипотез | `Python` `Statistics` |
 | 📈 [**HH Analytics**](https://github.com/omdklv7/hh-analytics-case-study) | EDA рынка вакансий и зарплат аналитиков | `Pandas` `Matplotlib` |
-| 📈 [**TraderBot**](https://github.com/omdklv7/traderbot-subscription-analysis) | Анализ бизнес-модели, требований и проектирование БД | `BPMN` `SQL` |
+| 📈 [**TraderBot**](https://github.com/omdklv7/traderbot-subscription-analysis) | Анализ бизнес-модели, требований и проектирование БД | `BPMN` `SQL` `Python` |
