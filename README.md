@@ -20,8 +20,6 @@
 
 **Анализ клиентских данных · CRM · Оптимизация бизнес-процессов**
 
-<img src="https://img.shields.io/badge/Result-20%25_faster_deals-238636?style=flat-square" />
-
 ### 🛠️ Tech Stack
 
 <div align="center">
